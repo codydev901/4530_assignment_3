@@ -10,10 +10,8 @@ Assignment 3
 
 For DataSet 1 - Geospatial Point Based
 
-OpenStreetMap
+Some references that helped me for this,
 https://stackoverflow.com/questions/53233228/plot-latitude-longitude-from-csv-in-python-3-6
-
-Plotly Reference
 https://plotly.com/python/mapbox-layers/
 """
 
