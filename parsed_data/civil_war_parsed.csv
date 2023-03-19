@@ -1,0 +1,9 @@
+civil_war,wound_location,relative_survival_rate_raw,relative_survival_rate_adjusted
+United States,head,0.091,0.091
+United States,chest,0.117,0.117
+United States,abdomen,0.06,0.06
+United States,extremity,0.732,0.732
+Syria,head,0.369,0.4076
+Syria,chest,0.227,0.2567
+Syria,abdomen,0.117,0.1287
+Syria,extremity,0.188,0.207
